@@ -1,0 +1,42 @@
+dict={}
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+key=input("Key: ")
+value=input("Value: ")
+dict[key]=value
+
+print(dict)
