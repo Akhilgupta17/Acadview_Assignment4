@@ -1,0 +1,7 @@
+t=()
+print(type(t))
+
+s=("Akhil",1,2,3,"tuple","list")
+print(s)
+print(len(s))
+
