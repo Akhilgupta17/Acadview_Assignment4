@@ -1,0 +1,45 @@
+dict={}
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+Name=input("Name: ")
+Marks=input("Marks: ")
+dict[Name]=Marks
+
+print(dict)
+
+s=sorted(dict.items(),key=lambda x:x[1])
+print(s)
